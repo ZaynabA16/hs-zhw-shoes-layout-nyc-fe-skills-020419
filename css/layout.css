@@ -23,11 +23,10 @@
 /* Positioning Classes */
 aside{
   float: right;
-  width: 33%;
+  width: 32%;
   background-color: white;
 }
 .group{
-
   color: black;
   display: inline-grid;
   column-gap: 28px;
@@ -46,7 +45,7 @@ aside{
    margin-right: 11px;  
   }
   .summer{
-  width: 64%;
+  width: 66%;
 }
 .contact{
   display: inline-block;
