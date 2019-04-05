@@ -29,7 +29,6 @@ aside{
 .group{
   color: black;
   display: inline-grid;
-  /*column-gap: 2px;*/
 }
 .tiles{
   width: 32%;
