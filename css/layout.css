@@ -23,7 +23,7 @@
 /* Positioning Classes */
 aside{
   float: right;
-  width: 32%;
+  width: 30%;
   background-color: white;
 }
 .group{
@@ -40,7 +40,7 @@ aside{
   margin-right: 9px;
 }
 .summer{
-  width: 60%;
+  width: 66%;
 }
 .contact{
   display: inline-block;
