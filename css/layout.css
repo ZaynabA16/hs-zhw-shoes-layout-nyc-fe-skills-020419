@@ -41,7 +41,6 @@ aside{
 }
 .summer{
   width: 66%;
-  margin-right: 15px;
 }
 .contact{
   display: inline-block;
@@ -53,7 +52,6 @@ aside{
   padding-left: 12px;
   padding-bottom: 20px;
   padding-top: 20px;
-  padding-right: 0px;
 }
 a{
   color: black;
