@@ -33,7 +33,7 @@ aside{
   column-gap: 28px;
 }
 .tiles{
-  width: 2em;
+  width: 33%;
   clear: both;
   margin-top: 8px;
   display: inline-grid;
