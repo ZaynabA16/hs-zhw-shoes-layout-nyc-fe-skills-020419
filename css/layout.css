@@ -30,8 +30,7 @@ aside{
   margin: 0px;
   color: black;
   display: inline-grid;
-  column-gap: 28px; 
-  padding-right: 0px;
+  column-gap: 28px;
 }
 .tiles{
   width: 32.5%;
