@@ -26,12 +26,12 @@ aside{
   width: 33%;
   background-color: white;
 }
-.group{
-  margin: 0px;
-  color: black;
-  display: inline-grid;
-  column-gap: 28px;
-}
+/*.group{*/
+/*  margin: 0px;*/
+/*  color: black;*/
+/*  display: inline-grid;*/
+/*  column-gap: 28px;*/
+/*}*/
 .tiles{
   width: 32%;
   clear: both;
