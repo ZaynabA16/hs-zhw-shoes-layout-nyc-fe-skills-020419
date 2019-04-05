@@ -33,11 +33,11 @@ aside{
   column-gap: 28px;
 }
 .tiles{
-  width: 32.4%;
+  width: 32.6%;
   clear: both;
   margin-top: 8px;
   display: inline-grid;
-  margin-right: 7px;
+  margin-right: 5px;
   }
   .summer{
   width: 66%;
