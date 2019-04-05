@@ -39,8 +39,11 @@ aside{
   display: inline-grid;
   margin-right: 8px;
   }
-  .tile-1, .tile-2{
+.tile-2{
    margin-right: 10px;
+  }
+  .tile-1{
+   margin-right: 12px;  
   }
   .summer{
   width: 66%;
